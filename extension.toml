@@ -1,0 +1,10 @@
+id = "mcp-server-digitalocean"
+name = "Digital Ocean MCP Server"
+description = "Model Context Protocol server for DigitalOcean"
+version = "0.1.0"
+schema_version = 1
+authors = ["Ali Dowair"]
+repository = "https://github.com/adowair/zed-mcp-server-digitalocean"
+
+[context_servers.mcp-server-digitalocean]
+name = "Digital Ocean MCP Server"

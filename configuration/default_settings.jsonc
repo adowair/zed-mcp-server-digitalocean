@@ -1,0 +1,8 @@
+// DigitalOcean API token (required)
+{
+  "digitalocean_api_token": "YOUR_DIGITALOCEAN_API_TOKEN",
+  // Optional comma-separated services to enable. Leave empty to enable all services.
+  "services": "",
+  // Optional override for DigitalOcean API base URL.
+  "digitalocean_api_endpoint": ""
+}
